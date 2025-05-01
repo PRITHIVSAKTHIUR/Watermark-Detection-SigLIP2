@@ -1,0 +1,5 @@
+# Label mapping
+id2label = {
+    "0": "No Watermark",
+    "1": "Watermark"
+}
